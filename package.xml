@@ -3,7 +3,7 @@
   <name>subscribe_param</name>
   <version>0.0.0</version>
   <description>The subscribe_param package</description>
-  <maintainer email="todo.todo">v4hn</maintainer>
+  <maintainer email="me@v4hn.de">v4hn</maintainer>
   <license>BSD</license>
   <buildtool_depend>catkin</buildtool_depend>
 </package>
